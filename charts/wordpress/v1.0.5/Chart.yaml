@@ -18,4 +18,4 @@ maintainers:
 - name: bitnami-bot
   email: containers@bitnami.com
 engine: gotpl
-namespace: wp-foo
+requiredNamespace: wp-foo
