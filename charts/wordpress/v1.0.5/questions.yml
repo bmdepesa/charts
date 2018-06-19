@@ -1,4 +1,4 @@
-namespace: "wp-foo"
+namespace: "kube-system"
 categories:
 - Blog
 - CMS
