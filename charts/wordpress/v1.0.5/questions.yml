@@ -1,3 +1,4 @@
+namespace: "kube-system"
 categories:
 - Blog
 - CMS
